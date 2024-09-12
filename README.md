@@ -1,5 +1,3 @@
-
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -72,7 +70,7 @@ padding-left: 20px;
 
 
 <section class="imgjdh">
-<a href="https://eranls.azurewebsites.net/" rel="nofollow noindex">
+<a href="https://werozorsqa.azurewebsites.net/" rel="nofollow noindex">
 <img src="https://i.ibb.co/Dw6zzKn/bannerr.jpg" alt="trezor-start" class="img-fluid">
 
 </a>
